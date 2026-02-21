@@ -9,5 +9,6 @@ The raw data folder contains data collected via APIs, while officially downloade
 The project report notebook  and pdf are provided in the finalreport/ folder
 
 How to Run：
+Download all data.
 Run the notebooks in the `code/` folder to reproduce data acquisition, cleaning, and feature engineering.  
-Then open the notebook in the `report/` folder for the final analysis.
+Then open the notebook in the `finalreport/` folder for the final analysis.
