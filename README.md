@@ -1,6 +1,6 @@
 # Applied-Data-Science-Project-1
 This project builds a complete data science pipeline for financial market analysis.  
-The workflow covers data acquisition, cleaning, feature engineering, exploratory analysis
+The workflow covers data acquisition, cleaning, preprocessing and feature engineering, also exploratory analysis
 
 All source code is located in the code folder.
 
